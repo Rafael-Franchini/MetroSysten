@@ -3,9 +3,9 @@ author dessa coisa feia:
 Rafael F.
 
 grupo:
-Rafael Alexandre Lima Franchini  	109179
-Danilo Henrique Muller 		105918
-Otávio Augusto Delatorre Fadini 	108999
+Rafael Franchini  109179
+Danilo  Muller 	105918
+Otávio  Fadini 	108999
 */
 #include <iostream>
 #include <string>
